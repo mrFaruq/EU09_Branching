@@ -7,4 +7,6 @@ public class f003 {
     // second lines
 
     // third lines
+
+    // forth line
 }

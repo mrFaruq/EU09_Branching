@@ -6,4 +6,8 @@ public class f002 {
 
     // writing smoke test...
 
+    // creating a report
+
+    // screenshot in failure
+
 }
